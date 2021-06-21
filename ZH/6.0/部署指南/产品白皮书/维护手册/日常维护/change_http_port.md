@@ -59,3 +59,5 @@
     ```bash
     ./bkcli install saas-o 
     ```
+    
+5. 在开发者中心-外链应用中修改cmdb/job 的访问链接
